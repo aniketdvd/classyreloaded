@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    padding: 6%;
+    background-color: #555555;
+    color: #ffffff;
+}
+header a{
+    display: inline-block;
+    margin: 8px;
+    text-decoration: none;
+    color: red;
+}
+main{
+    padding: 6%;
+    background-color: #888888;
+    color: #111111;
+}
+main a{
+    text-decoration: none;
+    color: #444444;
+}
+footer{
+    background-color: #555555;
+    color: #ffffff;
+    padding: 6%;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.sidebar{
+    border-radius: 10pt;
+    padding: 12px;
+}

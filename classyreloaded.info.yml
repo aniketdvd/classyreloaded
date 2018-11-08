@@ -1,0 +1,15 @@
+name: classyreloaded
+type: theme
+description: this theme uses classy as its base theme
+core: 8.x
+
+base theme: classy
+
+libraries:
+  classyreloaded/mystyle
+regions:
+  header: header
+  footer: footer
+  content: content
+  sidebar_first: first sidebar
+  sidebar_second: second sidebar
